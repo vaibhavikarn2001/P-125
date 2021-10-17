@@ -1,0 +1,41 @@
+.heading{
+    font-family: 'Amatic SC', cursive;
+     padding: 20px;
+     width:100%;
+     font-size:30px;
+}
+center{
+    width:100%;
+    height:290px;
+}
+.note{
+    line-height:3;
+}
+.copy_right_footer{
+    width:100%;
+    position:fixed;
+    bottom:0;
+    font-family: 'Bitter', serif;
+    line-height:4;
+    text-align:center;
+    background-color: lightcoral;
+    color:white;
+
+}
+video{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    margin-left:100px;
+    
+    border-radius:20px;
+}
+body{
+    height:900px;
+}
+canvas{
+    border:5px solid white;
+    margin-left:100px;
+    border-radius:20px;
+    font-family: 'Parisienne', cursive;
+    color:white;
+}
